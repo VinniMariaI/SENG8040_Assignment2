@@ -1,0 +1,13 @@
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.exe
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.deps.json
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.runtimeconfig.json
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.runtimeconfig.dev.json
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.dll
+C:\Users\welcome\source\repos\TriangleSolver\bin\Debug\netcoreapp3.1\TriangleSolver.pdb
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.csproj.AssemblyReference.cache
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.AssemblyInfoInputs.cache
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.AssemblyInfo.cs
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.dll
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.pdb
+C:\Users\welcome\source\repos\TriangleSolver\obj\Debug\netcoreapp3.1\TriangleSolver.genruntimeconfig.cache
