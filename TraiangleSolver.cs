@@ -10,7 +10,7 @@ namespace TriangleSolver
         public static string Analyze(int side1, int side2, int side3)
         {
             if ((side1 + side2) <= side3 || side2 + side3 <= side1 || side3 + side1 <= side2)
-                return "do not a Traingle";
+                return "do not form a Traingle";
 
             else
             {
